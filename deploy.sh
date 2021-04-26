@@ -28,3 +28,4 @@ git push -f $githubUrl master:gh-pages # 推送到github
 
 cd - # 退回开始所在目录
 rm -rf docs/.vuepress/dist
+
