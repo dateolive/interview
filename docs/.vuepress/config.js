@@ -8,7 +8,7 @@ module.exports = {
 
   title: "源码级和面试向的个人学习汇总",
   description: '主要记录个人对源码级的阅读笔记和面试向问题的记录',
-  // base: '/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/interview/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },
