@@ -68,7 +68,7 @@ module.exports = [
       { text: '设计模式', link: '/pages/e6c953/' },
       { text: 'Git相关', link: '/pages/cfc81f/' },
       { text: 'Docker', link: '/pages/829562/' },
-      { text: '幼稚题', link: '/pages/56e2d2/' },
+      { text: '智力题', link: '/pages/56e2d2/' },
       { text: '三高的理解', link: '/pages/56e2d2/' },
       { text: '编码之道', link: '/pages/56e2d2/' },
       { text: '安全之道', link: '/pages/e2e2c9/' }
