@@ -1,7 +1,7 @@
 ---
 home: true
 #heroImage: /img/web.png
-heroText: 源码级和面试向的个人学习汇总
+heroText: 面试向的个人学习汇总
 tagline: 知识体系一点点深入---目的主要是为了加深学习和面试
 actionText: 快速开始
 actionLink: /pages/55bf8c/
