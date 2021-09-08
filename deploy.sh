@@ -11,7 +11,7 @@ cd docs/.vuepress/dist
 
 
 # deploy to github
-echo 'interview.dateolive.top' > CNAME
+#echo 'interview.dateolive.top' > CNAME
 if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy'
   githubUrl=git@github.com:dateolive/interview.git
